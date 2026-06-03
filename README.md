@@ -81,11 +81,6 @@ This project aims to leverage cloud computing and artificial intelligence to ass
 - Flatten Layer
 - Dense Layer
 - Output Layer
-
-### Total Parameters
-
-7,391,873
-
 ---
 
 ## Current Results
